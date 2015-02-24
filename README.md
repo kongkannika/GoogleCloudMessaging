@@ -1,4 +1,6 @@
-# GoogleCloudMessaging
+# Google Cloud Messaging
+
+Push Notification to Android device by using PHP.
 
 ## How to use?
 
