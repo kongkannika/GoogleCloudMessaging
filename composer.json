@@ -1,0 +1,11 @@
+{
+	"name": "kongkannika/google-cloud-messaging-php",
+	"type": "library",
+	"description": "Push Notification to Google Cloud Messaging PHP for Android",
+	"keywords": ["gcm", "google", "cloud", "messaging", "php", "push", "notification"],
+	"homepage": "https://github.com/kongkannika/GoogleCloudMessaging",
+	"license": "",
+	"require": {
+		"php": ">=5.2.0"
+	}
+}
