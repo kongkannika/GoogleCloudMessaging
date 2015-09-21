@@ -1,4 +1,7 @@
 <?php
+
+namespace KongKannika;
+
 /**
  * Google Cloud Messaging for Android
  *
